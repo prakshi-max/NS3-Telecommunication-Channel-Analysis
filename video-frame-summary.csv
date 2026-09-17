@@ -1,0 +1,13 @@
+Frame,Image,PacketsSent,PacketsReceived,PacketsLost,LossPercent
+1,01_chess.jpg,94,94,0,0
+2,02_sudoku.jpg,119,119,0,0
+3,03_geometric.jpg,116,116,0,0
+4,04_building.jpg,153,153,0,0
+5,05_traffic.jpg,87,87,0,0
+6,06_car.jpg,88,88,0,0
+7,07_portrait.jpg,90,90,0,0
+8,08_animal.jpg,102,102,0,0
+9,09_map.jpg,153,153,0,0
+10,10_chart.jpg,85,85,0,0
+11,11_document.jpg,181,181,0,0
+12,12_city.jpg,131,131,0,0
